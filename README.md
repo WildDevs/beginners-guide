@@ -2,7 +2,7 @@
 ## Description
 Welcome to our guide for aspiring programmers who are new to the field and looking to learn! This guide will provide you with a series of mini-articles that will answer some common questions that arise when learning to program. From choosing a programming language to resources for learning and improving your skills, we've got you covered. Whether you're interested in a career in tech or simply want to learn to code for fun, this guide will give you the foundation you need to get started. Let's dive in and start exploring the exciting world of programming!
 
-## Table of Contents (Optional)
+## Table of Contents
 
 In this mini guide we will clarify the following key points to get you started.
 ```
